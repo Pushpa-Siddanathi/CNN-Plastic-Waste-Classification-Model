@@ -13,9 +13,7 @@
 
 ---
 
-<img src="https://github.com/Pushpa-Siddanathi/Pushpa-Siddanathi/blob/gh-pages/Images/PushpaSiddanathiLinkedinProfileBackground.png" alt="AI ML DS DL Banner" style="width:100%;">
 
-## Overview  
 This project focuses on building a Convolutional Neural Network (CNN) model to classify images of plastic waste into various categories like organic and recyclable. The primary goal is to enhance waste management systems by improving the segregation and recycling process using deep learning technologies.  
 
 ---
