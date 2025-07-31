@@ -81,9 +81,6 @@ The trained CNN model is available on Kaggle:
 - Set up the project environment.  
 - Explored the dataset structure.  
 
-- **Notebooks:**  
-- [Week1-Libraries-Importing-Data-Setup.ipynb](Week1-Libraries-Importing-Data-Setup.ipynb)  
-- [Kaggle Notebook](https://www.kaggle.com/code/hardikksankhla/cnn-plastic-waste-classification)  
 
 ### **Week 2: Model Training, Evaluation, and Predictions**  
 - **Date:** 4th June 2025 - 20th June 2025  
@@ -92,9 +89,6 @@ The trained CNN model is available on Kaggle:
 - Evaluated model performance using accuracy and loss metrics.  
 - Visualized classification results with a confusion matrix.  
 
-- **Notebooks:**  
-- [Week2-Model-Training-Evaluation-Predictions.ipynb](Week2-Fitting-CNN-Model.ipynb)  
-- [Kaggle Notebook](https://www.kaggle.com/code/pushpasiddanathi/cnn-plastic-waste-classification)  
 
 ### **Week 3: Streamlit App and Model Deployment**  
 - **Date:** 21st June 2025 - 1st July 2025  
@@ -102,11 +96,6 @@ The trained CNN model is available on Kaggle:
 - Developed a **Streamlit web application** for real-time waste classification.  
 - Uploaded the trained model to **Kaggle and GitHub** for public access.  
 - Finalized the **project documentation and README formatting**.
-
-- **Notebooks:**  
-  - [Week2-Week3-Combined-CNN-Model.ipynb]([Week2-Week3-Combined-CNN-Model.ipynb])  
-  - [Week2-Week3-Combined-CNN-Model.ipynb](Week2-Week3-Combined-CNN-Model.ipynb)  
-- [Kaggle Notebook](https://www.kaggle.com/code/pushpasiddanathi/cnn-plastic-waste-classification)  
 
 
 ## How to Run  
