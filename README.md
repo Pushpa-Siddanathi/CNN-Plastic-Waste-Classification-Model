@@ -55,15 +55,6 @@ The CNN architecture includes:
 - **Fully Connected Layers:** Classification  
 - **Activation Functions:** ReLU and Softmax  
 
-### Model Structure:
-<p align="center">
-<img src="https://github.com/Pushpa-Siddanathi/CNN-Plastic-Waste-Classification/blob/main/Images/CNN-Architecture.jpg" style="width:80%;">
-</p>
-
-## Model Deployment  
-The trained CNN model is available on Kaggle:
-
-[Waste Classification CNN Model](https://www.kaggle.com/models/pushpasiddanathi/waste-classification-cnn-model/)
 
 ## Training  
 - **Optimizer:** Adam  
@@ -96,21 +87,6 @@ The trained CNN model is available on Kaggle:
 - Uploaded the trained model to **Kaggle and GitHub** for public access.  
 - Finalized the **project documentation and README formatting**.
 
-
-## How to Run  
-1. Clone the repository:  
-```bash  
-git clone https://github.com/Pushpa-Siddanathi/CNN-Plastic-Waste-Classification  
-cd CNN-Plastic-Waste-Classification
-```  
-2. Install the required dependencies:  
-```bash  
-pip install -r requirements.txt  
-```  
-3. Run the Streamlit app:  
-```bash  
-streamlit run app.py  
-```  
 
 ## Technologies Used  
 - Python  
