@@ -1,4 +1,4 @@
-#PROJECT
+
 # CNN Model for Plastic Waste Classification
 
 <h1 align="center">Hi there, I'm Pushpa Siddanathi 👋</h1>
