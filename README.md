@@ -6,9 +6,8 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/pushpa-siddanathi"><img src="https://img.shields.io/badge/LinkedIn-Pushpa%20Siddanathi-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-<a href="https://github.com/Pushpa-Siddanathi"><img src="https://img.shields.io/badge/GitHub-Pushpa%20Siddanathi-black?style=for-the-badge&logo=github" alt="GitHub"></a>
 <a href="mailto:pushpasiddanathi6@gmail.com"><img src="https://img.shields.io/badge/Email-pushpasiddanathi6%40email.com-red?style=for-the-badge&logo=gmail" alt="Email"></a>
-<a href="https://dataxpushpa.wixsite.com/myportfolio"><img src="https://img.shields.io/badge/Portfolio-Pushpa%20Siddanathi-ff69b4?style=for-the-badge&logo=appveyor" alt="Portfolio"></a>
+
 </p>
 
 ---
