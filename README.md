@@ -65,7 +65,6 @@ The CNN architecture includes:
 ## Weekly Progress  
 
 ### **Week 1: Libraries, Data Import, and Setup**  
-- **Date:** 21st May 2025 - 3rd June 2025  
 - **Activities:**  
 - Imported required libraries and frameworks.  
 - Set up the project environment.  
@@ -73,15 +72,13 @@ The CNN architecture includes:
 
 
 ### **Week 2: Model Training, Evaluation, and Predictions**  
-- **Date:** 4th June 2025 - 20th June 2025  
 - **Activities:**  
 - Trained the CNN model on the dataset.  
 - Evaluated model performance using accuracy and loss metrics.  
 - Visualized classification results with a confusion matrix.  
 
 
-### **Week 3: Streamlit App and Model Deployment**  
-- **Date:** 21st June 2025 - 1st July 2025  
+### **Week 3: Streamlit App and Model Deployment** 
 - **Activities:**  
 - Developed a **Streamlit web application** for real-time waste classification.  
 - Uploaded the trained model to **Kaggle and GitHub** for public access.  
